@@ -1,5 +1,7 @@
 # gdal lib 
 # from asc into tif file and clipping with shapefile into tif
+#using projectfile for SpatialReference 
+#soon implemented tif back to ascii file 
 
 # imports 
 import gdal
