@@ -1,3 +1,5 @@
+# Save ALL RADOLAN RW IMAGES IN FOLDER TO PNG´s
+
 import wradlib as wrl
 import matplotlib.pyplot as pl
 import warnings
